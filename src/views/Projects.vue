@@ -130,7 +130,7 @@ body {
 
   h3 {
     margin: 0;
-    font-size: 1.6em;
+    font-size: 2em;
     line-height: 1.5;
     padding-bottom: 1rem;
   }
